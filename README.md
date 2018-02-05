@@ -1,2 +1,2 @@
-# learnpython
-python核心编程demo
+# learn-python
+python 基础/核心编程demo
